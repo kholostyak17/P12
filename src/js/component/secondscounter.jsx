@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 
 const SecondsCounter = () => {
 	//const [myVar, setMyVar] = useState(0);
-	let myVar = -1;
+	let myVar = 0;
 
 	window.setInterval(() => {
 		if (myVar == 9) {
