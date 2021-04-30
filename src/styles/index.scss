@@ -1,17 +1,21 @@
 @import "~bootstrap/scss/bootstrap.scss";
-
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@1,700&display=swap');
 div{
     font-size: 5rem;
-    color: white;
-    font-family:'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-family: 'Exo 2', sans-serif;
 }
 body{
     background-color: black;
 }
 .digit{
-    background-color: black;
+    background-color: dimgray;
+    border-radius: 1rem;
     border-style: double;
-    box-shadow: 6px -1px red;
+    box-shadow: 6px -1px  lightgrey;
+    color: blanchedalmond;
+    width: 6rem;
+    text-align: center;
 ;}
 /* 
 
