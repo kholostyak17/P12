@@ -1,5 +1,17 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+div{
+    font-size: 5rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: black;
+}
+.digit{
+    background-color: black;
+    border-style: double;
+}
 /* 
 
     You can write your own styles here...
