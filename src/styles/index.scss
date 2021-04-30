@@ -3,7 +3,7 @@
 div{
     font-size: 5rem;
     color: white;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
 }
 body{
     background-color: black;
@@ -11,7 +11,8 @@ body{
 .digit{
     background-color: black;
     border-style: double;
-}
+    box-shadow: 6px -1px red;
+;}
 /* 
 
     You can write your own styles here...

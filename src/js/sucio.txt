@@ -6,7 +6,7 @@ funcion star
      contador ++;
      while(bot== false)
  } 
-
+ hola estoy escribiendo
 
 
 //////////  funcion para empezar el contador //////
