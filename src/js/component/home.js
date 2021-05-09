@@ -9,7 +9,7 @@ export function Home() {
 	return (
 		<div className="d-flex justify-content-center">
 			<div className="digit m-2">
-				<i class="far fa-clock"></i>
+				<i className="far fa-clock"></i>
 			</div>
 			<div className="digit m-2">
 				<SecondsCounter time={1000} />
