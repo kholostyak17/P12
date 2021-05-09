@@ -1,22 +1,25 @@
 @import "~bootstrap/scss/bootstrap.scss";
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital@1&display=swap');
 div{
     font-size: 5rem;
-    color: whitesmoke;
     font-family: 'Exo 2', sans-serif;
 }
 body{
     background-color: black;
 }
 .digit{
-    background-color: dimgray;
+
+    background-color: black;
     border-radius: 1rem;
     border-style: double;
-    box-shadow: 6px -1px  lightgrey;
-    color: blanchedalmond;
+    box-shadow: 6px -1px  rgb(97, 97, 97);
+    color: rgb(0, 255, 0);
     width: 6rem;
     text-align: center;
-;}
+}
+.fa-clock{
+    font-size: 4rem;
+}
 /* 
 
     You can write your own styles here...
